@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hirak35
+- 👋 Hi, I’m Hirak
 - 👀 I’m interested in Blogging, Web development, Video Games, Anime
 - 🌱 I’m currently learning React, PHP
 - 💞️ I’m looking to collaborate on making tool or viral games website
