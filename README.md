@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making tool or viral games website
 - 📫 How to reach me: info@toolyoulove.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an Ai Coder who build web pages 10x faster with the help of Ai
+- ⚡ Fun fact: I'm an Ai Coder who build web apps 10x faster with the help of Ai
 
 <!---
 hirak35/hirak35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
