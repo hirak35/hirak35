@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blogging, Web development, Video Games, Anime
 - 🌱 I’m currently learning React, PHP
 - 💞️ I’m looking to collaborate on making tool or viral games website
-- 📫 How to reach me: hello@iamhirak.com
+- 📫 How to reach me: info@toolyoulove.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an Ai Coder who build web pages 10x faster with the help of Ai
 
